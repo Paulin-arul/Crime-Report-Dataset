@@ -39,11 +39,8 @@ Please note that the dataset may require some cleaning before analysis. Common t
 If you use this dataset in your research or analysis, please cite it as follows:
 
 
-## License
-
-This dataset is provided under the [license type]. Refer to the LICENSE file for more details.
 
 ## Feedback
 
-If you have any questions, suggestions, or feedback related to the dataset, please contact [contact@email.com].
+If you have any questions, suggestions, or feedback related to the dataset, please contact paulinaruldoss@gmail.com and rpriyadharshini435@gmail.com.
 
