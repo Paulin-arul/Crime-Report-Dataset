@@ -34,11 +34,6 @@ Researchers, analysts, and developers can use this dataset for various purposes,
 
 Please note that the dataset may require some cleaning before analysis. Common tasks may include handling missing values, converting data types, and addressing outliers.
 
-## Citation
-
-If you use this dataset in your research or analysis, please cite it as follows:
-
-
 
 ## Feedback
 
